@@ -1,0 +1,16 @@
+V.1.0.0
+Założenia myShoppingList
+strona logowania poprzez 4 cyfrowy PIN która prowadzi do prywatnego pokoju
+
+ładuje się 2 strona
+w 2 możliwych trybach przełączanych suwakiem
+- tryb zakupów w którym jest lista TO BUY i można zaznaczać produkty już znalazły się w naszym koszyku 
+- tryb edycji listy 
+
+V.1.0.1
+- dodanie profilu urzytkownika
+- urzytkownik loguje się i tworzy konto, obsługa e-mail
+- dodanie możliwości utworzenie kilku pokojów na urzytkownika 
+- dodanie możliwości edycji listy zakupów przez udostępnienie pokoju dla jakiegoś emaila innego użytkownika 
+- dodanie sugestji zakupowych po zaczęciu wpisywania frazy
+

@@ -1,0 +1,10 @@
+h1 {
+
+    color:blue;
+}
+
+footer {
+  height: 50px;
+  background: red;
+  margin-top: auto; /* this is the solution */
+}

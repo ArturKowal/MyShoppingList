@@ -1,0 +1,6 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/homePage/migrations/
+/db.sqlite3
+myShoppingApp/settings.py
